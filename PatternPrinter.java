@@ -20,7 +20,7 @@ public class PatternPrinter {
             System.out.println();
         }
 
-        // loop for the second half of the patter
+        // loop for the second half of the pattern
         for (int i = n; i >= 1; i--) {
             for (int j = 1; j <= i; j++) {
                 System.out.print(i);
